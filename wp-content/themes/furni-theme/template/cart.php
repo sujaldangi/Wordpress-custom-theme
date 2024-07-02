@@ -1,0 +1,1 @@
+<?php locate_template('layouts/header.php', true);  ?>
